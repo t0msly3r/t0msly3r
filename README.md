@@ -7,7 +7,7 @@
 
 - 🏫: I'm a 42 student.
 
-- 🔭: I’m currently working on a LLm project.
+- 🔭: I’m currently working on a LLM project.
 
 - 🌱: I’m currently learning Python and Neural Networks. 🧠💻🤖
 

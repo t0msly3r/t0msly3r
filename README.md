@@ -13,7 +13,7 @@
 
 - 🤔: I’m looking for help with anything I am currently learning! 😅
 
-- 📫 How to reach me: **tomasfiz17@gmail.com**
+- 📫 How to reach me: **tfizben@gmail.com**
 
 <br>
 

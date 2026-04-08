@@ -80,7 +80,8 @@ REST API + web frontend for task management, built end-to-end.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=t0msly3r&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=a1a1aa&bg_color=00000000" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t0msly3r&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=a1a1aa&bg_color=00000000&langs_count=6" />
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=t0msly3r&show_icons=true&hide_border=true&bg_color=00000000&title_color=60a5fa&icon_color=60a5fa&text_color=e5e7eb" />
+
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=t0msly3r&layout=compact&hide_border=true&bg_color=00000000&title_color=60a5fa&text_color=e5e7eb" />
 
 </div>

@@ -1,22 +1,86 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=3B82F6&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Tomas+Fiz+%F0%9F%91%8B;Computer+Science+Student" />
-<br>
+<div align="center">
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=640&lines=Hey%2C+I'm+Tomas+Fiz+%F0%9F%91%8B;FullStack+Developer;Systems+%2B+Web+%E2%80%94+from+kernel+to+UI" alt="Typing SVG" />
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<br/>
 
-- 🏫: I'm a 42 student.
+<p align="center">
+  <a href="mailto:tfizben@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tfizben%40gmail.com-3b82f6?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/t0msly3r" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Tomas%20Fiz-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://t0msly3r.github.io/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-t0msly3r-3b82f6?style=flat-square&logo=astro&logoColor=white"/>
+  </a>
+</p>
 
-- 🔭: I’m currently working on a LLM project.
+</div>
 
-- 🌱: I’m currently learning Python and Neural Networks. 🧠💻🤖
+---
 
-- 🤔: I’m looking for help with anything I am currently learning! 😅
+## About
 
-- 📫 How to reach me: **tfizben@gmail.com**
+I'm a developer with a foundation in **systems programming** (C, C++, 42 Malaga) currently working across the full stack — building REST APIs, database schemas, and user interfaces.
 
-<br>
+I care about writing code that's not just functional but **maintainable**: clean abstractions, thoughtful data models, and interfaces that feel effortless to use.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-D8B4FE?style=for-the-badge&logo=c%2B%2B&logoColor=black) ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-<br>
+- 🎓 **42 Malaga** student · Advanced Diploma in Web Application Development (ongoing)
+- ⚙️ Systems-first mindset: memory management, multithreading, Unix internals
+- 🌐 Currently building full stack apps with **TypeScript · Express · Prisma · Next.js**
+- 📫 Reach me at **tfizben@gmail.com**
+
+---
+
+## Tech Stack
+
+**Systems & Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Web & Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+
+**Data & Tools**
+
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## Featured Project
+
+### [TaskFlow — Full Stack Task Manager](https://github.com/t0msly3r/task-manager-api)
+
+REST API + web frontend for task management, built end-to-end.
+
+`Express 5` · `TypeScript` · `Prisma` · `PostgreSQL` · `Next.js` · `React Query` · `Tailwind CSS` · `Docker`
+
+- JWT authentication with bcrypt password hashing
+- Input validation with Zod, rate limiting, Helmet security headers
+- Structured logging with Pino, API docs with Swagger
+- Dockerized for local development
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=t0msly3r&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=a1a1aa&bg_color=00000000" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t0msly3r&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=a1a1aa&bg_color=00000000&langs_count=6" />
+
+</div>

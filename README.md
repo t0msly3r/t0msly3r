@@ -29,7 +29,7 @@ I care about writing code that's not just functional but **maintainable**: clean
 - 🎓 **42 Malaga** student · Advanced Diploma in Web Application Development (ongoing)
 - ⚙️ Systems-first mindset: memory management, multithreading, Unix internals
 - 🌐 Currently building full stack apps with **TypeScript · Express · Prisma · Next.js**
-- 📫 Reach me at **tfizben@gmail.com**
+- 📫 Reach me at **https://www.linkedin.com/in/tomas-fiz-632a44400/**
 
 ---
 

@@ -22,7 +22,7 @@
 
 ## About
 
-I'm a developer with a foundation in **systems programming** (C, C++, 42 Malaga) currently working across the full stack — building REST APIs, database schemas, and user interfaces.
+I'm a developer with a foundation in **systems programming** (C, C++) currently working across the full stack — building REST APIs, database schemas, and user interfaces.
 
 I care about writing code that's not just functional but **maintainable**: clean abstractions, thoughtful data models, and interfaces that feel effortless to use.
 

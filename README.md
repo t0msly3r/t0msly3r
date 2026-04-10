@@ -8,7 +8,7 @@
   <a href="mailto:tfizben@gmail.com">
     <img src="https://img.shields.io/badge/Email-tfizben%40gmail.com-3b82f6?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/t0msly3r" target="_blank">
+  <a href="https://www.linkedin.com/in/tomas-fiz-632a44400/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Tomas%20Fiz-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://t0msly3r.github.io/portfolio" target="_blank">
@@ -29,7 +29,7 @@ I care about writing code that's not just functional but **maintainable**: clean
 - 🎓 **42 Malaga** student · Advanced Diploma in Web Application Development (ongoing)
 - ⚙️ Systems-first mindset: memory management, multithreading, Unix internals
 - 🌐 Currently building full stack apps with **TypeScript · Express · Prisma · Next.js**
-- 📫 Reach me at **https://www.linkedin.com/in/tomas-fiz-632a44400/**
+- 📫 Reach me at **tfizben@gmail.com**
 
 ---
 
